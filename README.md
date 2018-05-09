@@ -1,2 +1,1 @@
-# tap
-homebrew tap
+# Homebrew taps
